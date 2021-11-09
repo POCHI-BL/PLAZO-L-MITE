@@ -1,0 +1,41 @@
+{
+  "title": "PLAZO LÍMITE",
+  "description": "El actor novato Seo Yeonoh, que aún no es conocido, las deudas de juego de su padre son cada vez mayores. Un día, recibió una oferta de patrocinio de Jehyuk, el director ejecutivo de una gran empresa, para que hiciera de su amante... -Seo Yeon-oh, ¿tienes alguna experiencia con hombres?- -Vamos a averiguarlo primero-",
+  "artist": "Eeej",
+  "author": "Eeej",
+  "cover": "https://nitter.ggc-project.de/pic/media%2FFADfWxzVUAwSqjG.jpg%3Fname%3Dsmall.jpg",
+  "chapters": {
+    "1": {
+      "title": "Capitulo 1",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/r39rsC0/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "Capítulo 2",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/866JEDZ/"
+      },
+      "last_updated": "1616368746"
+   },
+    "3": {
+      "title": "Capítulo 3",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/N6ipTg3/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "Capítulo 4",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/doTOrFl/"
+      },
+      "last_updated": "1619043765"        
+    }    
+  }
+}
