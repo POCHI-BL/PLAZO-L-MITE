@@ -35,6 +35,22 @@
       "groups": {
         "POCHI": "/proxy/api/imgur/chapter/doTOrFl/"
       },
+      "last_updated": "1616368746"
+   },
+    "5": {
+      "title": "Capítulo 5",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/Lj6srFz/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "Capítulo 6",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/AvcXQuJ/"
+      },
       "last_updated": "1619043765"        
     }    
   }
