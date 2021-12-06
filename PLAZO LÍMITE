@@ -51,6 +51,38 @@
       "groups": {
         "POCHI": "/proxy/api/imgur/chapter/AvcXQuJ/"
       },
+      "last_updated": "1616368746"
+   },
+    "7": {
+      "title": "Capítulo 7",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/45VjIzZ/"
+      },
+      "last_updated": "1616368746"
+    },
+    "8": {
+      "title": "Capítulo 8",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/yEljf0y/"
+      },
+      "last_updated": "1616368746"
+   },
+    "9": {
+      "title": "Capítulo 9",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/C87Xt7p/"
+      },
+      "last_updated": "1616368746"
+    },
+    "10": {
+      "title": "Capítulo 10",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/HnuYThN/"
+      },
       "last_updated": "1619043765"        
     }    
   }
